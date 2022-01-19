@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 
-<form >
+<form action="https://api.github.com/repos/marufukurou999/ReleaseTool/actions/workflows/Bourgogne_P2_setTag.yml/dispatches" method="post">
 <input type="submit" value= "これは押しても何も出ません">
 </form>
 
