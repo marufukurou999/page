@@ -1,8 +1,10 @@
 ## Welcome to GitHub Pages
 
 
-city = {BOS, SFO, (NYC)}
+<form>
+<input type="submint" value = "これは押しても何も出ません">
 
+</form>
 
 You can use the [editor on GitHub](https://github.com/marufukurou999/page/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
