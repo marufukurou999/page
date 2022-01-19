@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[jump](https://github.com/marufukurou999/ReleaseTool/blob/main/index.html)
+[jump](https://github.com/marufukurou999/ReleaseTool/raw/main/index.html)
 
 You can use the [editor on GitHub](https://github.com/marufukurou999/page/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
