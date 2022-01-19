@@ -1,9 +1,8 @@
 ## Welcome to GitHub Pages
 
 
-<form action="https://github.com/marufukurou999/ReleaseTool/blob/main/.github/workflows/Bourgogne_P2_setTag.yml/dispatches" method="post">
-<input type="submit" value = "これは押しても何も出ません">
-
+<form >
+<input type="submit" value= "これは押しても何も出ません">
 </form>
 
 You can use the [editor on GitHub](https://github.com/marufukurou999/page/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
